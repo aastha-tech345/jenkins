@@ -26,7 +26,7 @@ const App = () => {
 
   return (
     <div style={{ padding: "20px", maxWidth: "400px", margin: "auto" }}>
-      <h4>Add Your New Record...</h4>
+      <h4>Lets Add Your New Record...</h4>
 
       {/* Create Section */}
       <div style={{ marginBottom: "20px" }}>
